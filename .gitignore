@@ -1,0 +1,16 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build output
+/target/
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+application.properties
